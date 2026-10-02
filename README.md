@@ -1,15 +1,20 @@
 # 1kuxyz/1ku-flarum-pipetables (Archive)
 
-This repository is a permanent, read-only archive of released versions of `1kuxyz/1ku-flarum-pipetables`, preserved by the [Extension Archive for Flarum](https://github.com/flarchive/archive-index).
+This repository is a permanent, read-only archive of released versions of `1kuxyz/1ku-flarum-pipetables`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+
+> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-## Quick Download
+## Archive Status
 
-- **Latest Archived Version:** `1.0.8`
-- **Flarum Compatibility:** `>=0.1.0-beta.7`
-- **Direct Download (.zip):** [Download 1.0.8 (.zip)](https://github.com/flarchive/1kuxyz-1ku-flarum-pipetables/archive/refs/tags/archive/v1.0.8.zip)
-- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/1kuxyz-1ku-flarum-pipetables/tags)
+- **Latest Archived Release:** `v2.0`
+- **Target Flarum Compatibility:** `^0.1.0-beta.8`
+- **Declared License:** `MIT`
+- **Upstream Repository:** https://github.com/1kuxyz/1ku-flarum-pipetables.git
+- **All Archived Tags:** [View Tags](https://github.com/flarchive/1kuxyz-1ku-flarum-pipetables/tags)
+
+*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
 
 ## Archive Catalog
 
